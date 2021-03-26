@@ -1,0 +1,11 @@
+{
+    "appswift": {
+        "continueTheming": true,
+        "shouldCommitCode": true,
+        "shouldCreateDatabaseSchema": false,
+        "scmType": "git",
+        "scmUserName": "TRIGGEREDcoder",
+        "scmPwd": "81c6f2d44decab7e01423a6fffd7~~a51220ba5f6ed34324d1df730e5417eb",
+        "scmUrl": "https://github.com/TRIGGEREDcoder/ItapIntegrate.git"
+    }
+}

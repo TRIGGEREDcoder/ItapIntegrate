@@ -1,0 +1,19 @@
+{
+    "relationships": [],
+    "fields": [
+        {
+            "fieldId": 1,
+            "fieldName": "fieldOne",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "1616750530310",
+    "dto": "mapstruct",
+    "searchEngine": false,
+    "databaseType": "sql",
+    "readOnly": false,
+    "entityTableName": "entone",
+    "pagination": "no",
+    "jpaMetamodelFiltering": true,
+    "service": "serviceImpl"
+}
